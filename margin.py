@@ -1,2 +1,2 @@
 def margin(price, cost):
-    return price - cost * 1.1
+    return price - cost
